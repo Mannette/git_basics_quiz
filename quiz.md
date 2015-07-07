@@ -14,7 +14,7 @@ dogs
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+the beach
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
