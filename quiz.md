@@ -10,7 +10,7 @@ blue
 
 ###Cats or Dogs?
 
-Your answer goes here
+dogs
 
 ###What would constitute a “perfect” day for you?
 
