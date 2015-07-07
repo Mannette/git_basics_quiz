@@ -6,7 +6,7 @@ Ethan
 
 ###What is your favorite color?
 
-Your answer goes here
+blue
 
 ###Cats or Dogs?
 
